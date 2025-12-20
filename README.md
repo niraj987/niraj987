@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niraj987
-- 👀 I’m interested in software development, Data Analyst, 
+- 👀 I’m interested in software development, Data Analyst,Data Scientist ,Power BI 
 - 🌱 I’m currently learning  deep learnig in Python
 
 - 
