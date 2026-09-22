@@ -25,7 +25,6 @@ Name: Niraj Kumar
 Education: B.Tech in Computer Science & Engineering (LPU)
 Focus_Areas: [Data Science, Machine Learning, Full-Stack Web Dev, RAG Systems]
 Core_Tech: [Python, SQL, JavaScript, Scikit-Learn, Power BI, Streamlit, Gemini API]
-HackerRank: Solved 50+ Algorithmic & SQL Challenges
 Status: 🚀 Building next-gen AI platforms & interactive data tools!
 Contact: kumarniraj11045@gmail.com
 ```
@@ -34,15 +33,7 @@ Contact: kumarniraj11045@gmail.com
 * 🧠 Passionate about **Machine Learning Models, Predictive Analytics & AI Agent Architectures**.
 * 🌐 Experienced in creating **RAG Vector Search engines, DSA Visualizers, and Glassmorphic Web Apps**.
 * 📊 Expert in **Exploratory Data Analysis (EDA), Statistical Modeling, and Power BI Dashboards**.
-* 📬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/kumarniraj04/)** or check out my **[HackerRank Profile](https://www.hackerrank.com/kumarniraj11045)**.
-
----
-
-### 🏆 Achievements & GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niraj987&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Niraj's Trophies" />
-</div>
+* 📬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/kumarniraj04/)** or via email at **[kumarniraj11045@gmail.com](mailto:kumarniraj11045@gmail.com)**.
 
 ---
 
@@ -140,10 +131,6 @@ Contact: kumarniraj11045@gmail.com
 &nbsp;
 <a href="mailto:kumarniraj11045@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/kumarniraj11045" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 &nbsp;
 <a href="https://github.com/niraj987" target="_blank">
